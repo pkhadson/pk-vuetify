@@ -1,0 +1,14 @@
+{
+  "name": "pk-vuetify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/vuetify.js",
+  "module": "./src/vuetify.js",
+  "types": "./pk-vuetify.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
